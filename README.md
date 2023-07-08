@@ -1,6 +1,6 @@
 <h1 align="Center">
     <br>
-    Welcome to My Github Profile 
+    Greetings, Hacktivists! Join us in the world of secure exploration
   <br>
 </h1>
 
@@ -30,25 +30,6 @@
 
 <br>
 
-## Experience
-- Open Source Developer at The Linux Foundation (Feb 2023 - Present)
-  - Contributing to open source software development.
-  
-- Accenture Developer Program at Accenture in India (May 2023 - Present)
-  - Participating in the Accenture Virtual Developer Program.
-  
-- Twitter Developer at Twitter (Jun 2023 - Present)
-  - Developing applications using Twitter's Developer Platform.
-
-- Founder at GAIN AND SHINE (Jan 2023 - Mar 2023)
-  - Started a learning platform called GAIN AND SHINE to provide cybersecurity and Android development education.
-
-- CTF Player at TryHackMe (Jan 2022 - Mar 2023)
-  - Participating in Capture the Flag (CTF) competitions on TryHackMe.
-  
-
-
-## Volunteer Experience
 - Developer Program Member at GitHub (May 2023)
   - Contributing to science and technology projects.
   
@@ -61,18 +42,3 @@
 - Community Volunteer at National Cybercrime Department India (Apr 2019)
   - Volunteering in the National Cybercrime Department of India.
   
-<br>
-
-## Languages
-- English: Professional working proficiency
-- Telugu: Native or bilingual proficiency
-- Hindi: Professional working proficiency
-
-<br>
-
-## Honors & Awards
-- Cyber Ethics Certification by the Ministry of Electronics and Information Technology, Government of India (Feb 2023)
-- Cyber Hygiene Practitioner Certification by the Ministry of Electronics and Information Technology, Government of India (Feb 2023)
-- RedHat IT Aptitude Test Score: India Rank 41 (Feb 2023)
-
-<br>
