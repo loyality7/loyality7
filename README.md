@@ -28,17 +28,4 @@
 - 📍 Location: Madanapalle, Andhra Pradesh, India
 - 😊 Being Human is my motto.
 
-<br>
 
-- Developer Program Member at GitHub (May 2023)
-  - Contributing to science and technology projects.
-  
-- Team Leader at Google Developer Student Clubs (Apr 2023)
-  - Leading a team at S.V University, Tirupati.
-  
-- Member at Google Developers Group (Sep 2022)
-  - Member of Google Developers Group, Bangalore.
-  
-- Community Volunteer at National Cybercrime Department India (Apr 2019)
-  - Volunteering in the National Cybercrime Department of India.
-  
