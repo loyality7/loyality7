@@ -14,7 +14,7 @@
 
 
 ## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif"></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif"></picture>
 
 <br>
 
