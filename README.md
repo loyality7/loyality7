@@ -21,5 +21,12 @@
 
 
 
+- 👋 Hi, I’m Sarath Babu C
+- 👀 I’m a Cybersecurity Enthusiast.
+- 🌱 I’m currently learning AI/ML for Cybersecurity.
+- 💞️ I’m looking to collaborate on AI, ML, IoT, Cybersecurity.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/csarath112/).
+- 📍 Location: Madanapalle, Andhra Pradesh, India
+- 😊 Being Human is my motto.
 
 
