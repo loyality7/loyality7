@@ -1,8 +1,5 @@
 <h1 align="Center">
-    <br>
-    Greetings, Hacktivists! 
-  <br>
-
+ 
 </h1>
 
 
