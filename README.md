@@ -7,6 +7,17 @@
 
 - 💬 Ask me about **Cybersecurity , bug hunting , technology**
 
+- 🕉️Ṣāṇṣkṛīṭ
+ 
+ॐ असतो मा सद्गमय ।
+तमसो मा ज्योतिर्गमय ।
+मृत्योर्मा अमृतं गमय ।
+ॐ शान्तिः शान्तिः शान्तिः ॥
+Om Asato Maa Sad-Gamaya |
+Tamaso Maa Jyotir-Gamaya |
+Mrtyor-Maa Amrtam Gamaya |
+Om Shaantih Shaantih Shaantih || 
+
   <h2 align="right"><b></b><img src="https://camo.githubusercontent.com/84f236a29990e0ac00a453a9230f7d6081956228df5ffdbc6f01e462b9a1856e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f42656d4b71523952444b3456322f67697068792e676966" width="400"></h2>
 
 <h3 align="left">Connect with me:</h3>
