@@ -22,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loyality7&show_icons=true&locale=en" alt="loyality7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loyality7&" alt="loyality7" /></p>
+<h1 align="center"><b></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
