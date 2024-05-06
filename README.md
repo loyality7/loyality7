@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Cybersecurity , bug hunting , technology**
 
-  <h2 align="right"><b></b><img src="https://camo.githubusercontent.com/84f236a29990e0ac00a453a9230f7d6081956228df5ffdbc6f01e462b9a1856e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f42656d4b71523952444b3456322f67697068792e676966" width="300"></h2>
+  <h2 align="right"><b></b><img src="https://camo.githubusercontent.com/84f236a29990e0ac00a453a9230f7d6081956228df5ffdbc6f01e462b9a1856e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f42656d4b71523952444b3456322f67697068792e676966" width="400"></h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
