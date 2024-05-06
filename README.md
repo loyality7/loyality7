@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ṣāṛāṭḥ Bābu</h1>
 <h3 align="center">A Security Researcher👨‍💻 From Īṇḍīā</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=loyality7&label=Profile%20views&color=0e75b6&style=flat" alt="loyality7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loyality7" alt="loyality7" /></a> </p>
-
 - 🔭 I’m currently working on **AutoSec**
 
 - 🌱 I’m currently learning **DevSecOps**
@@ -23,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loyality7&show_icons=true&locale=en&layout=compact" alt="loyality7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loyality7&show_icons=true&locale=en" alt="loyality7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loyality7&" alt="loyality7" /></p>
