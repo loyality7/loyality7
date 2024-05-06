@@ -22,4 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loyality7&show_icons=true&locale=en" alt="loyality7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loyality7&" alt="loyality7" /></p>
-<h1 align="right"><b></b><img src="https://camo.githubusercontent.com/84f236a29990e0ac00a453a9230f7d6081956228df5ffdbc6f01e462b9a1856e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f42656d4b71523952444b3456322f67697068792e676966" width="100"></h1>
+<h1 align="right"><b></b><img src="https://camo.githubusercontent.com/84f236a29990e0ac00a453a9230f7d6081956228df5ffdbc6f01e462b9a1856e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f42656d4b71523952444b3456322f67697068792e676966" width="500"></h1>
