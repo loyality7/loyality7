@@ -25,4 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loyality7&show_icons=true&locale=en&layout=compact" alt="loyality7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loyality7&show_icons=true&locale=en" alt="loyality7" /></p>
+<p>&nbsp;<img align="center" src="https://sarathbabuc.bio/sarathbabuc.qr?version=3&type=user" alt="loyality7" /></p>
 
