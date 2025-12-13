@@ -24,5 +24,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loyality7&show_icons=true&locale=en&layout=compact" alt="loyality7" /></p>
 
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/loyality7/loyality7/output/snake.svg" alt="Snake animation" />
+
+###
 
