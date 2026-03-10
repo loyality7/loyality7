@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarath Babu </h1>
 <h3 align="center">Tech Freelancer & Security Researcher | AI/ML Explorer | Quantum Mechanics Enthusiast</h3>
 
-- 💬 know more : sarathbabuc.bio
 
 
 
