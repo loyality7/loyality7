@@ -14,7 +14,6 @@
 
 ![Sarath](https://github-readme-activity-graph.vercel.app/graph?username=loyality7&bg_color=000000&color=00ccff&line=f00060&point=0d0d0d&area=true&hide_border=true) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loyality7&show_icons=true&locale=en&layout=compact" alt="loyality7" /></p>
 
 
 <br clear="both">
