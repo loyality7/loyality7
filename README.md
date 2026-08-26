@@ -5,8 +5,7 @@
 
 
 
-
-![Sarath](https://github-readme-activity-graph.vercel.app/graph?username=loyality7&bg_color=000000&color=00ccff&line=f00060&point=0d0d0d&area=true&hide_border=true) 
+<!-- ![Sarath](https://github-readme-activity-graph.vercel.app/graph?username=loyality7&bg_color=000000&color=00ccff&line=f00060&point=0d0d0d&area=true&hide_border=true) -->
 
 
 
